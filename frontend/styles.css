@@ -1,0 +1,21 @@
+/* styles.css */
+.App {
+  text-align: center;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: gray;
+}
+
+.completeBtn {
+  background-color: #f44336;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.completeBtn:hover {
+  background-color: #d32f2f;
+}
